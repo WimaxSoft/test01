@@ -1,3 +1,10 @@
+/*
+Coding exercise (Java)
+You are given a phrase and have to invert it, but maintaining the correct word order and
+punctuation marks. Word with hyphens must be respected
+*/
+
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
